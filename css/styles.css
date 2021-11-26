@@ -516,6 +516,7 @@ h3 {
 .modal-checkbox-label {
   display: flex;
   align-items: center;
+  cursor: pointer;
 }
 
 .checkbox-square {
